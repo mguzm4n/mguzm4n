@@ -1,4 +1,4 @@
-<div  align="center"> <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EFF&center=true&vCenter=true&width=435&lines=Hi!+I'm+Marcelo+Guzmán,;Software+Engineer.;Ingeniero+Civil+en+Informática.;Let's chat!"  alt="Typing SVG"  /> </div>
+<div  align="center"> <img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EFF&center=true&vCenter=true&width=435&lines=Hi!+I%27m+Marcelo+Guzmán,;Software+Engineer.;Ingeniero+Civil+en+Informática.;Let%27s+chat!"  alt="Typing SVG"  /> </div>
 
 ## Programming languages
 
